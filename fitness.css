@@ -1,0 +1,97 @@
+body{
+     margin: 0px; 
+     padding: 0px;
+    background: url("pexels-photo-1608099.jpeg\(part2\).jpeg");    
+    font-family:'Baloo Bhai 2' ,cursive; 
+    height: 600px;
+    
+}
+.logo{
+    display: inline-block;
+    /* parent is header */
+    position: absolute;
+    left:32px;
+    top:20px;
+    color: white;
+    }
+    
+.navbar{    
+    display: block;
+    width: 32%;    
+    margin: 20px auto;
+    font-size: 30px;
+}
+.right{
+    display: inline-block;
+    /* parent is header */
+    position: absolute;
+    right: 34px;
+    top:20px;
+    font-size:30px ;
+    margin-top: 15px;
+   
+    }
+.navigation{
+     list-style-type: none;
+    display: inline-block;
+    width: 500px;
+        
+}
+.navigation li{
+     display: inline-block;
+     font-size: 16px;
+    }
+    .navigation a{
+        text-decoration: none;
+        color: white;
+        padding: 15px;
+    }
+    .navigation li a:hover,.navigation li a:active{
+        text-decoration: underline;
+        color:grey;
+        padding: 4px;
+    } 
+    img{
+        margin-top: 0%;
+        margin-left: 0%;
+        filter: invert(100%);
+        width: 150px;
+    }
+    #GymName{
+        margin-top: 0%;
+        text-align: center;
+        line-height: 20%;
+            }
+    .btn{
+        color: white;
+        background-color: black;
+        padding: 5px 8px 5px 8px;
+        font-family: 'Baloo Bhai 2', cursive;;
+        font-size: 14px;
+    }
+    .btn:hover{
+        color: grey;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    
+#motto1{
+    font-size: 8ex;
+    margin-top: 2.5ex;
+    margin-left: 8ex;
+    margin-bottom: 1px;
+    color: whitesmoke;
+}
+#motto2{
+    font-size: 8ex;
+    margin-top: 1px;
+    margin-left: 12ex;
+    margin-bottom: 1px;
+    color: whitesmoke;
+}
+#motto3{
+    font-size: 8ex;
+    margin-top: 1px;
+    margin-left: 15ex;
+    color: whitesmoke;
+}

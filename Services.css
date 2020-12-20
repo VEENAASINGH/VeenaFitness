@@ -1,0 +1,58 @@
+body{
+    background: url('wp5559316.jpg\(serv2\).jpg');
+    color: whitesmoke;
+    font-family:'Baloo Bhai 2' ,cursive;   
+    height: 1000px; 
+}
+#topic{
+    font-size: 10ex;
+    display: inline-block;
+     margin:auto 13ex 1ex 8ex;
+    
+
+   }
+   .container{
+       display: inline-block;
+       width:30%;
+       height:35ex;
+       margin-right: 80px;
+       margin-left: 110px;
+       margin-bottom: 20px;
+          }
+#women h3{
+    padding-left:50px ;
+    }
+    #women h4{
+        padding-left: 95px;
+    }
+#child h3{
+    padding-left: 85px;
+}
+#child h4{
+    padding-left:73px;
+}
+#men h3{
+    padding-left:105px ;
+}
+#men h4{
+    padding-left: 62px;
+}
+#senior h3{
+    padding-left: 85px;
+}
+#senior h4{
+    padding-left: 67px;
+}
+.btn{
+    margin-top: 8px;
+    margin-left:150px ;
+    padding:2px 4px 2px 4px;
+}
+.btn:hover{
+    color: grey;
+    cursor: pointer;
+}
+.container:active, .container:hover{
+    color: grey;
+
+}

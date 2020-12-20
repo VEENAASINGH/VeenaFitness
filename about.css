@@ -1,0 +1,33 @@
+body{
+background: url('pexels-photo-136404.jpeg\(about2\).jpeg');
+font-family:'Baloo Bhai 2' ,cursive;
+height: 600px;
+
+}
+.about{
+    color:whitesmoke;
+    font-size: 38px;
+}
+#mainBox{
+    margin-top: 144px;
+    margin-bottom: 0%;
+}
+#mainBox:hover{
+    color: grey;
+    cursor: pointer;
+}
+#para{
+     margin-top: 0%;
+    font-size:15px;
+    width:40%;
+}
+#para:hover,#para:active{
+    color: grey;
+    cursor: pointer;
+}
+    
+
+    
+    
+
+   
